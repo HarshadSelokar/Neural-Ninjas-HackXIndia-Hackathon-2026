@@ -101,7 +101,3 @@ downloads/
 *.tar.gz
 
 
-
-backend
-ext_frontend
-web_frontend
